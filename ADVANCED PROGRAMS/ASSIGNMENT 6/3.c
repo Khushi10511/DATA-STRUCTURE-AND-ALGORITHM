@@ -1,0 +1,1 @@
+//3. WAP to insert a new node before a certain node of a single linked list.

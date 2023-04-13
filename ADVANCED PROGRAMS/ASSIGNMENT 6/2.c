@@ -1,0 +1,1 @@
+//2. WAP to delete a node after a certain node of a single  linked list.

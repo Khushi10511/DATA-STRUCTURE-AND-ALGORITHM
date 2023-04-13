@@ -1,0 +1,1 @@
+//4.WAP to remove the duplicates in a sorted single linked list.
